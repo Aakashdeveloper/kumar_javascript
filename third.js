@@ -1,10 +1,10 @@
 for(i=0;i<10;i++){
     console.log(i)
 }
-VM390:2 0
-VM390:2 1
-VM390:2 2
-VM390:2 3
+0
+1
+2
+3
 VM390:2 4
 VM390:2 5
 VM390:2 6
@@ -40,7 +40,7 @@ if(a>5){
 }else{
     console.log("not ok")
 }
-VM431:5 not ok
+not ok
 undefined
 var a  = 5 
 if(a==5){
@@ -48,7 +48,7 @@ if(a==5){
 }else{
     console.log("not ok")
 }
-VM434:3 ojkkkkk
+ ojkkkkk
 
 
 var a = 32767
